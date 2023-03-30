@@ -1,2 +1,1 @@
-# JavaSript
- noções basicas da linguagem
+# Potência Tech Angular Developer - Powered by iFood
