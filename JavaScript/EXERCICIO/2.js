@@ -2,7 +2,7 @@
 
 //var imc = peso/(altura*altura)
 
-let peso = 140
+let peso = 80
 let altura = 2.03
 var imc = peso/(Math.pow(altura,2)).toFixed(1)
 var imcTipe = null
@@ -21,3 +21,5 @@ else if(imc > 30 && imc < 40){
 else if(imc > 40){
     imcTipe = "obeso grave"
 }
+
+console.log(imcTipe)
