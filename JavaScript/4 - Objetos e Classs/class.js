@@ -126,5 +126,5 @@ comperPersom(ygor,paulo)
 }
 
 let fusca = new Carro("Volkswagen","Vermelha",1/12)
-
+console.log(fusca.KmMedio)
 console.log(fusca.KmMedioGasto(70,5.00))

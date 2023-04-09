@@ -1,4 +1,4 @@
-class Pessoas{
+class Pessoa{
     nome;
     peso;
     altura;
@@ -11,6 +11,9 @@ class Pessoas{
     imcCalc(){
         return(this.peso/(Math.pow(this.altura,2)))
     }
-     
+
 }
 
+const ygor = new Pessoa("ygor xavier",120,2.03);
+
+console.log(ygor.imcCalc())
