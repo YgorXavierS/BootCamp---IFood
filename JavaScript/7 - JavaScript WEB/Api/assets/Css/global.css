@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto', 'arial', 'helvetica';
+    box-sizing: border-box;
+    
+    
+}
+
+h2{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+body{
+    background-color: #e0e3ea;
+    box-sizing: border-box;
+}
+
